@@ -1,0 +1,7 @@
+{
+  "name": "NekaSuguFrontend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
